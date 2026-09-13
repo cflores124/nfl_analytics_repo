@@ -218,4 +218,3 @@ nfl_defensive_success_rate_pipeline/
     ├── processed/
     ├── qa_outputs/
     └── analysis_outputs/
-    ```

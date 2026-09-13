@@ -196,4 +196,3 @@ nfl_defensive_explosive_play_pipeline/
     ├── processed/
     ├── qa_outputs/
     └── analysis_outputs/
-```

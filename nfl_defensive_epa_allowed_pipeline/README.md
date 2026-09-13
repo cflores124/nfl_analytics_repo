@@ -168,4 +168,3 @@ nfl_defensive_epa_allowed_pipeline/
     ├── processed/
     ├── qa_outputs/
     └── analysis_outputs/
-    ```
